@@ -41,7 +41,7 @@ body {
 
 .profile-img {
     width: 220px;
-    height: 220px;
+    height: 300px;
     border-radius: 12px; /* Modern rounded rectangle */
     object-fit: cover;
     border: 5px solid #fff;
